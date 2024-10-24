@@ -1,0 +1,4 @@
+img {
+    border-radius: 10px; /* 添加圆角 */
+    margin-bottom: 20px; /* 在图片和下方内容之间添加间距 */
+}
